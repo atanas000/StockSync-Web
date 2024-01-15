@@ -1,5 +1,7 @@
 <h1 align="center">StockSync (Web) by VivaSoft</h1>
 
+<span>Прочети и на: </span><a href="README.md">English</a>
+
 <p align="center">
   <img width="300" height="300" src="https://github.com/atanas000/StockSync/blob/6ee08226925381bf24e5b607e838eb24bd1f0f98/photos/StockSync-logos.jpeg">
 </p>
